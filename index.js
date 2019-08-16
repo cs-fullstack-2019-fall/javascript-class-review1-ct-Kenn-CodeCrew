@@ -22,7 +22,10 @@ alert("You win")
 
 //
 //     Problem 2:
-// Put the start of your program in a main function. Create a class for a bank account user. Include name, address, and account balance. Create a function that can change the account balance. It WILL NOT be changed if you log it.
+// Put the start of your program in a main function. Create a class for a bank account user. Include name, address, and account balance. Create a function that can change the account balance. It WILL NOT be changed if you log it. Create 3 bank users and put them in an array. Print the name and balance of each person in a function.
+
+
+
 //
 //     Problem 3:
 // Put the start of your program in a main function. Create a function that can translate five English words into Spanish words. You should be able to call your function from your main function.
